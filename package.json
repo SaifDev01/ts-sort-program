@@ -12,7 +12,7 @@
     "typescript": "^5.0.4"
   },
   "devDependencies": {
-    "@types/node": "^18.16.2",
+    "@types/node": "^18.17.16",
     "ts-node": "^10.9.1"
   }
 }
